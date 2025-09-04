@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\obj\Debug\net8.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\obj\Debug\net8.0\Sum.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\obj\Debug\net8.0\Sum.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\obj\Debug\net8.0\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\bin\Debug\net8.0\Sum.exe
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\bin\Debug\net8.0\Sum.deps.json
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\bin\Debug\net8.0\Sum.runtimeconfig.json
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\bin\Debug\net8.0\Sum.dll
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\bin\Debug\net8.0\Sum.pdb
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\obj\Debug\net8.0\Sum.dll
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\obj\Debug\net8.0\refint\Sum.dll
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\obj\Debug\net8.0\Sum.pdb
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\obj\Debug\net8.0\Sum.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\khushic#\Sum\Sum\obj\Debug\net8.0\ref\Sum.dll
