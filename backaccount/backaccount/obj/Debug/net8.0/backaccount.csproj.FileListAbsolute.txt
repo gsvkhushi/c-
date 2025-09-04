@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\bin\Debug\net8.0\backaccount.exe
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\bin\Debug\net8.0\backaccount.deps.json
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\bin\Debug\net8.0\backaccount.runtimeconfig.json
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\bin\Debug\net8.0\backaccount.dll
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\bin\Debug\net8.0\backaccount.pdb
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\obj\Debug\net8.0\backaccount.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\obj\Debug\net8.0\backaccount.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\obj\Debug\net8.0\backaccount.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\obj\Debug\net8.0\backaccount.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\obj\Debug\net8.0\backaccount.dll
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\obj\Debug\net8.0\refint\backaccount.dll
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\obj\Debug\net8.0\backaccount.pdb
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\obj\Debug\net8.0\backaccount.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\kcsharp\backaccount\backaccount\obj\Debug\net8.0\ref\backaccount.dll
