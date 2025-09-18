@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\bin\Debug\net8.0\numberoperations.exe
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\bin\Debug\net8.0\numberoperations.deps.json
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\bin\Debug\net8.0\numberoperations.runtimeconfig.json
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\bin\Debug\net8.0\numberoperations.dll
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\bin\Debug\net8.0\numberoperations.pdb
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\obj\Debug\net8.0\numberoperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\obj\Debug\net8.0\numberoperations.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\obj\Debug\net8.0\numberoperations.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\obj\Debug\net8.0\numberoperations.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\obj\Debug\net8.0\numberoperations.dll
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\obj\Debug\net8.0\refint\numberoperations.dll
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\obj\Debug\net8.0\numberoperations.pdb
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\obj\Debug\net8.0\numberoperations.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\kcsharp\numberoperations\numberoperations\obj\Debug\net8.0\ref\numberoperations.dll
