@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\bin\Debug\net8.0\paymentapp.exe
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\bin\Debug\net8.0\paymentapp.deps.json
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\bin\Debug\net8.0\paymentapp.runtimeconfig.json
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\bin\Debug\net8.0\paymentapp.dll
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\bin\Debug\net8.0\paymentapp.pdb
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\obj\Debug\net8.0\paymentapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\obj\Debug\net8.0\paymentapp.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\obj\Debug\net8.0\paymentapp.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\obj\Debug\net8.0\paymentapp.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\obj\Debug\net8.0\paymentapp.dll
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\obj\Debug\net8.0\refint\paymentapp.dll
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\obj\Debug\net8.0\paymentapp.pdb
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\obj\Debug\net8.0\paymentapp.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\kcsharp\paymentapp\paymentapp\obj\Debug\net8.0\ref\paymentapp.dll
