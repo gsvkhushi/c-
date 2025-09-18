@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\bin\Debug\net8.0\vehicalrental.exe
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\bin\Debug\net8.0\vehicalrental.deps.json
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\bin\Debug\net8.0\vehicalrental.runtimeconfig.json
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\bin\Debug\net8.0\vehicalrental.dll
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\bin\Debug\net8.0\vehicalrental.pdb
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\obj\Debug\net8.0\vehicalrental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\obj\Debug\net8.0\vehicalrental.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\obj\Debug\net8.0\vehicalrental.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\obj\Debug\net8.0\vehicalrental.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\obj\Debug\net8.0\vehicalrental.dll
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\obj\Debug\net8.0\refint\vehicalrental.dll
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\obj\Debug\net8.0\vehicalrental.pdb
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\obj\Debug\net8.0\vehicalrental.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\kcsharp\vehicalrental\vehicalrental\obj\Debug\net8.0\ref\vehicalrental.dll
