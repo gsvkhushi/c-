@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\bin\Debug\net8.0\librarymanagement.exe
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\bin\Debug\net8.0\librarymanagement.deps.json
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\bin\Debug\net8.0\librarymanagement.runtimeconfig.json
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\bin\Debug\net8.0\librarymanagement.dll
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\bin\Debug\net8.0\librarymanagement.pdb
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\obj\Debug\net8.0\librarymanagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\obj\Debug\net8.0\librarymanagement.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\obj\Debug\net8.0\librarymanagement.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\obj\Debug\net8.0\librarymanagement.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\obj\Debug\net8.0\librarymanagement.dll
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\obj\Debug\net8.0\refint\librarymanagement.dll
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\obj\Debug\net8.0\librarymanagement.pdb
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\obj\Debug\net8.0\librarymanagement.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\kcsharp\librarymanagement\librarymanagement\obj\Debug\net8.0\ref\librarymanagement.dll
