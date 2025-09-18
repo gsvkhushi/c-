@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\kcsharp\store\store\bin\Debug\net8.0\store.exe
+C:\Users\Student 1\Desktop\kcsharp\store\store\bin\Debug\net8.0\store.deps.json
+C:\Users\Student 1\Desktop\kcsharp\store\store\bin\Debug\net8.0\store.runtimeconfig.json
+C:\Users\Student 1\Desktop\kcsharp\store\store\bin\Debug\net8.0\store.dll
+C:\Users\Student 1\Desktop\kcsharp\store\store\bin\Debug\net8.0\store.pdb
+C:\Users\Student 1\Desktop\kcsharp\store\store\obj\Debug\net8.0\store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\kcsharp\store\store\obj\Debug\net8.0\store.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\store\store\obj\Debug\net8.0\store.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\kcsharp\store\store\obj\Debug\net8.0\store.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\store\store\obj\Debug\net8.0\store.dll
+C:\Users\Student 1\Desktop\kcsharp\store\store\obj\Debug\net8.0\refint\store.dll
+C:\Users\Student 1\Desktop\kcsharp\store\store\obj\Debug\net8.0\store.pdb
+C:\Users\Student 1\Desktop\kcsharp\store\store\obj\Debug\net8.0\store.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\kcsharp\store\store\obj\Debug\net8.0\ref\store.dll
