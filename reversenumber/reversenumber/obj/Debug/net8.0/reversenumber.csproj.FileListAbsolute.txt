@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\bin\Debug\net8.0\reversenumber.exe
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\bin\Debug\net8.0\reversenumber.deps.json
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\bin\Debug\net8.0\reversenumber.runtimeconfig.json
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\bin\Debug\net8.0\reversenumber.dll
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\bin\Debug\net8.0\reversenumber.pdb
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\obj\Debug\net8.0\reversenumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\obj\Debug\net8.0\reversenumber.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\obj\Debug\net8.0\reversenumber.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\obj\Debug\net8.0\reversenumber.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\obj\Debug\net8.0\reversenumber.dll
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\obj\Debug\net8.0\refint\reversenumber.dll
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\obj\Debug\net8.0\reversenumber.pdb
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\obj\Debug\net8.0\reversenumber.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\kcsharp\reversenumber\reversenumber\obj\Debug\net8.0\ref\reversenumber.dll
