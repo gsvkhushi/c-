@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\bin\Debug\net8.0\librarygenerics.exe
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\bin\Debug\net8.0\librarygenerics.deps.json
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\bin\Debug\net8.0\librarygenerics.runtimeconfig.json
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\bin\Debug\net8.0\librarygenerics.dll
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\bin\Debug\net8.0\librarygenerics.pdb
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\obj\Debug\net8.0\librarygenerics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\obj\Debug\net8.0\librarygenerics.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\obj\Debug\net8.0\librarygenerics.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\obj\Debug\net8.0\librarygenerics.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\obj\Debug\net8.0\librarygenerics.dll
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\obj\Debug\net8.0\refint\librarygenerics.dll
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\obj\Debug\net8.0\librarygenerics.pdb
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\obj\Debug\net8.0\librarygenerics.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\kcsharp\librarygenerics\librarygenerics\obj\Debug\net8.0\ref\librarygenerics.dll
