@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\bin\Debug\net8.0\operatorexception.exe
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\bin\Debug\net8.0\operatorexception.deps.json
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\bin\Debug\net8.0\operatorexception.runtimeconfig.json
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\bin\Debug\net8.0\operatorexception.dll
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\bin\Debug\net8.0\operatorexception.pdb
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\obj\Debug\net8.0\operatorexception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\obj\Debug\net8.0\operatorexception.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\obj\Debug\net8.0\operatorexception.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\obj\Debug\net8.0\operatorexception.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\obj\Debug\net8.0\operatorexception.dll
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\obj\Debug\net8.0\refint\operatorexception.dll
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\obj\Debug\net8.0\operatorexception.pdb
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\obj\Debug\net8.0\operatorexception.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\kcsharp\operatorexception\operatorexception\obj\Debug\net8.0\ref\operatorexception.dll
