@@ -1,0 +1,14 @@
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\bin\Debug\net8.0\libraryexception.exe
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\bin\Debug\net8.0\libraryexception.deps.json
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\bin\Debug\net8.0\libraryexception.runtimeconfig.json
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\bin\Debug\net8.0\libraryexception.dll
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\bin\Debug\net8.0\libraryexception.pdb
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\obj\Debug\net8.0\libraryexception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\obj\Debug\net8.0\libraryexception.AssemblyInfoInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\obj\Debug\net8.0\libraryexception.AssemblyInfo.cs
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\obj\Debug\net8.0\libraryexception.csproj.CoreCompileInputs.cache
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\obj\Debug\net8.0\libraryexception.dll
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\obj\Debug\net8.0\refint\libraryexception.dll
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\obj\Debug\net8.0\libraryexception.pdb
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\obj\Debug\net8.0\libraryexception.genruntimeconfig.cache
+C:\Users\Student 1\Desktop\kcsharp\libraryexception\libraryexception\obj\Debug\net8.0\ref\libraryexception.dll
